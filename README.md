@@ -1,45 +1,21 @@
-<h1 align="left">Hello, I'm Diego Boscolo</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=talktodeego&color=blue" alt="Profile views"></p>
+# Hello! I'm Diego Boscolo ✌️
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoboscolo/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/talktodeego)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deegotboscolo@gmail.com)
 
-- 🔥 I'm currently working on Grupo Oxxy as front-end developer
-- 🎨 I worked for 6 years as a graphic designer and switched career in July 2021
-- 🤓 Always learning
-<br>
-<div>
-  <a href="https://github.com/talktodeego">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talktodeego&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talktodeego&layout=compact&langs_count=16&theme=dark">
+![Boscolo GitHub stats](https://github-readme-stats.vercel.app/api?username=talktodeego&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talktodeego&layout=compact&theme=radical)
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"> <br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+    <img align="center" alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+    <img align="center" alt="adobe xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+    
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img align="center" alt="elixir" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg'>
-  <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-</div>
-  
-  ##
-  
-<div>
-  <a href="https://www.linkedin.com/in/diegoboscolo/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:deegotboscolo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-  
-<!--
-**talktodeego/talktodeego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
