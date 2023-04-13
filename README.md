@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=talktodeego&color=blue" alt="Profile views"></p>
 
-- 🔥 I'm currently working on Grupo Oxxy as front-end developer
+- 🔥 I'm currently working on Grupo Oxxy as Web Designer
 - 🎨 I worked for 6 years as a graphic designer and switched career in July 2021
 - 🤓 Always learning
 <br>
