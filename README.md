@@ -1,14 +1,7 @@
 
-# it's me, diego! ✌️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoboscolo/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/talktodeego)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deegotboscolo@gmail.com)
+## it's me, diego! ✌️
 
-![Boscolo GitHub stats](https://github-readme-stats.vercel.app/api?username=talktodeego&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talktodeego&layout=compact&theme=radical)
-
-## what I have been working with. | com o que eu venho trabalhando.
-
+### what I have been working with. | com o que eu venho trabalhando.
 <div style="display: inline_block;padding-bottom:50px;"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,5 +14,13 @@
     <br>
 </div>
 
-## ouvindo agora! 🎶 | listening rn! 🎶
+![Boscolo GitHub stats](https://github-readme-stats.vercel.app/api?username=talktodeego&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talktodeego&layout=compact&theme=radical)
+
+
+## listening rn! 🎶 | ouvindo agora! 🎶
 ![Spotify Song](https://spotify-readmd.vercel.app/api?theme=dark)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegoboscolo/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/talktodeego)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deegotboscolo@gmail.com)
