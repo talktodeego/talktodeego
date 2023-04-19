@@ -16,8 +16,8 @@
     <br>
 </div>
 
-![Boscolo GitHub stats](https://github-readme-stats.vercel.app/api?username=talktodeego&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talktodeego&layout=compact&theme=radical)
+![Boscolo GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=talktodeego&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talktodeego&layout=compact&theme=radical)
 
 
 ## listening rn! 🇬🇧 | ouvindo agora! 🇧🇷
