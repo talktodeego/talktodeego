@@ -18,5 +18,5 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diegoboscolo/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:deegotboscolo@gmail.com)
 
-## listening rn! | ouvindo agora!
+## ouvindo agora | listening rn
 ![Spotify Song](https://spotify-readmd.vercel.app/api?theme=dark)
