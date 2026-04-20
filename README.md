@@ -16,7 +16,7 @@
 ![Boscolo GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=talktodeego&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talktodeego&layout=compact&theme=radical)
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diegoboscolo/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:deegotboscolo@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:diegotboscolo@gmail.com)
 
 ## ouvindo agora | listening rn
 ![Spotify Song](https://spotify-readmd.vercel.app/api?theme=dark)
