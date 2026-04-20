@@ -1,5 +1,5 @@
 
-## it's me, diego!
+## Hi, i'm Diego!
 
 ### com o que eu venho trabalhando | what I have been working with
 
